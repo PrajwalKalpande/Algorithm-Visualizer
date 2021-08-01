@@ -1,0 +1,101 @@
+
+.grid-container {
+    margin: 10% auto;
+    margin-top: 0px;
+  }
+  
+  .grid {
+    white-space: pre;
+  }
+  
+  button {
+    margin: 2px;
+    
+ 
+  }
+  #start{
+    width: 25px;
+    height: 25px;
+    background: green;
+    
+  }
+  #finish{
+    width: 25px;
+    height: 25px;
+    background: rgb(216, 89, 238);
+    
+
+  }
+  #node{
+    width: 25px;
+    height: 25px;
+    outline: 1px solid rgb(175, 216, 248);
+    display: inline-block;
+
+  }
+  #wall{
+    width: 25px;
+    height: 25px;
+    background: rgb(221, 43, 12);
+  }
+  #shortest{
+    width: 25px;
+    height: 25px;
+    background: rgb(255, 254, 106);
+  }
+  .head{
+ margin-top: 63px;
+  }
+
+ .navbar-light {
+   
+   background: rgba(235, 59, 15, 0.678)!important;
+   
+ }
+ .navbar-dark{
+  background-color: rgb(53, 41, 70)!important;
+ }
+ .bglight{
+   background-color: rgb(223, 57, 90);
+   color: teal;
+ }
+ .nav-item-dark{
+   background-color:rgb(12, 1, 4);
+   color: rgb(233, 190, 213);
+ }
+
+ #table-light,#table-dark {
+  font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+.visualizebtnclassdark{
+    
+  
+  font-style: unset;
+  font-size: medium;
+  background: linear-gradient(45deg, #2196f3 30%, #21cbf3 90%);
+  text-shadow: rgb(23, 20, 220);
+  border: 0px;
+  border-radius: 3px;
+  color : white;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  
+
+}
+.visualizebtnclasslight{
+  
+  font-style: unset;
+  font-size :medium;
+  background: linear-gradient(45deg, #5d1896 30%, #a7149a 90%);
+  text-shadow: rgb(23, 20, 220);
+  border: 0px;
+ 
+  border-radius: 3px;
+  color : white;
+  height: 48px;
+  padding: 8px 12px 8px 12px;
+  
+
+}
