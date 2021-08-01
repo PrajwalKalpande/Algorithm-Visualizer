@@ -30,6 +30,22 @@ You can select any of these mazes from the dropdown list.
 2. Spiral Maze
 3. Random Maze
 4. Stairs
+# Getting Started :
+First install node.js which comes with a bundle(npm+npx) to run javascript in local system.
+type following commands in the shell to create a react app
 
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
+### npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+```js
 
 
