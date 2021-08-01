@@ -32,7 +32,7 @@ export default class PathfindingVisualizer extends Component {
               START_NODE_ROW: 7,
               FINISH_NODE_ROW: 7,
               START_NODE_COL: 6,
-              FINISH_NODE_COL: 27,
+              FINISH_NODE_COL: 10,
               mouseIsPressed: false,
               ROW_COUNT: row_count,
               COLUMN_COUNT: col_count,
