@@ -1,8 +1,8 @@
-# SoC_Algorithm_Visualizer
+# Algorithm-Visualizer
  [![NodeJS](https://img.shields.io/badge/node-12.14.1-important)](https://img.shields.io/badge/node-12.14.1-important)
  [![NPM](https://img.shields.io/badge/npm-6.13.7-blueviolet)](https://img.shields.io/badge/npm-6.13.7-blueviolet)
  [![Made With React](https://img.shields.io/badge/made%20with-react-61DAFB)](https://img.shields.io/badge/npm-6.13.7-blueviolet) 
- 
+ This project was done as a part of SoC during summer '21
 >Astar Algorithm in action
 ![Screenshot (682)](https://user-images.githubusercontent.com/73771871/127780906-1d463d31-77a7-4497-9219-2cc532ed20e4.png)
 # Overview 
