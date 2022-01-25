@@ -50,5 +50,7 @@ HURRAY ! Now you can see various pathfinding algorithms in action !
 ![Screenshot (681)](https://user-images.githubusercontent.com/73771871/127781560-41a55076-78a3-44ee-9cbb-2d7c833347e0.png)
 > Stairs
 ![Screenshot (683)](https://user-images.githubusercontent.com/73771871/127781578-38f95095-5995-4d75-ac13-0a0889ef7056.png)
-
+ # Website Published
+ You can now directly click on the link given below :
+ <https://prajwalkalpande.github.io/Algorithm-Visualizer/>
 
