@@ -4,11 +4,12 @@
  [![Made With React](https://img.shields.io/badge/made%20with-react-61DAFB)](https://img.shields.io/badge/npm-6.13.7-blueviolet) 
  This project was done as a part of SoC during summer '21
 >Astar Algorithm in action
-![Screenshot (682)](https://user-images.githubusercontent.com/73771871/127780906-1d463d31-77a7-4497-9219-2cc532ed20e4.png)
-
  # Website is Live!
  You can now directly click on the link given below to see the visualizer in action!
  <https://prajwalkalpande.github.io/Algorithm-Visualizer/>
+![Screenshot (682)](https://user-images.githubusercontent.com/73771871/127780906-1d463d31-77a7-4497-9219-2cc532ed20e4.png)
+
+
 
 # Overview 
 This project helps in visualizing pathfinding algorihtms like Astar, BFS, DFS, etc. This project is made using React and you can view the web page in dark as well as light mode. As you can see below there is a grid made using html table and the legend at the top shows what color represents which type of node it is.
